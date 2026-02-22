@@ -1,3 +1,14 @@
-hello 
+﻿1. accomplish - 달성하다
+2. allocate - 할당하다
+3. compensate - 보상하다
+4. comprehensive - 종합적인
+5. consecutive - 연속적인
+6. delegate - 위임하다
+7. fluctuate - 변동하다
+8. merchandise - 상품
+9. negotiate - 협상하다
+10. postpone - 연기하다
+
+hello
 hello 2
 hello 3
